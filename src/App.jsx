@@ -58,7 +58,7 @@ function App() {
             {loading ? (
               <ReactLoading
                 type="spokes"
-                color="red"
+                color="gray"
                 height={"20%"}
                 width={"20%"}
               />
